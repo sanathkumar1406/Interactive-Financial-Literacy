@@ -332,8 +332,4 @@ This project is licensed under the MIT License.
 
 ## 📧 Support
 
-For support, email your-email@example.com or open an issue.
-
----
-
-**Built with ❤️ for better financial literacy**
+For support, email sanathkumar.ganapurapu@gmail.com or open an issue.
